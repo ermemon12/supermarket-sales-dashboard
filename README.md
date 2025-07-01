@@ -72,11 +72,11 @@ Performed in-depth data preprocessing, including:
 
 ## 📸 Preview
 
-![Dashboard 1](Dashboard1.png)
+![Dashboard 1](Dashboard 1.png)
 
 **Dashboard 1:** Sales KPIs, Product Line Split, City-Wise Sales
 
-![Dashboard 2](Dashboard2.png)
+![Dashboard 2](Dashboard 2.png)
 
 **Dashboard 2:** Monthly Sales Trend, Product Line Growth, Customer Segments
 
