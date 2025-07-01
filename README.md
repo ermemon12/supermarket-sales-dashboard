@@ -67,7 +67,6 @@ Performed in-depth data preprocessing, including:
 | `Cleaned_Supermarket_Data.csv`     | Cleaned dataset used in dashboard |
 | `Supermarket_EDA_Cleaning.ipynb`   | Jupyter Notebook for data cleaning and EDA |
 | `dashboard_screenshots/`           | Preview images of the dashboard |
-| `EDA_Report.pdf`                   | PDF version of EDA summary |
 
 ---
 
