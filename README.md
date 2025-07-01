@@ -28,7 +28,7 @@ Performed in-depth data preprocessing, including:
 - Payment method preferences
 - Monthly and weekday-wise transaction patterns
 
-➡️ *Notebook file included in the repo as* `Suales Analysis.ipynb`
+➡️ *Notebook file included in the repo as* `Sales Analysis.ipynb`
 
 ---
 
@@ -67,17 +67,17 @@ Performed in-depth data preprocessing, including:
 | `Cleaned_Supermarket_Data.csv`     | Cleaned dataset used in dashboard |
 | `Supermarket_EDA_Cleaning.ipynb`   | Jupyter Notebook for data cleaning and EDA |
 | `dashboard_screenshots/`           | Preview images of the dashboard |
-| `EDA_Report.pdf` (optional)        | PDF version of EDA summary |
+| `EDA_Report.pdf`                   | PDF version of EDA summary |
 
 ---
 
 ## 📸 Preview
 
-![Dashboard 1](dashboard_screenshots/dashboard1.png)
+![Dashboard 1](dashboard1.png)
 
 **Dashboard 1:** Sales KPIs, Product Line Split, City-Wise Sales
 
-![Dashboard 2](dashboard_screenshots/dashboard2.png)
+![Dashboard 2](dashboard2.png)
 
 **Dashboard 2:** Monthly Sales Trend, Product Line Growth, Customer Segments
 
