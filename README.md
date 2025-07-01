@@ -88,8 +88,8 @@ Performed in-depth data preprocessing, including:
 ## 🚀 How to Run
 
 1. Clone this repo
-2. Open `Supermarket_EDA_Cleaning.ipynb` to explore the data and EDA
-3. Open `Supermarket_Sales_Dashboard.pbix` using Power BI Desktop
+2. Open `Sales Analysis.ipynb` to explore the data and EDA
+3. Open `Supermarket Sales Analysis.pbix` using Power BI Desktop
 
 ---
 
